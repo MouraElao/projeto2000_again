@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Olá, meu nome é Elias Bezerra Moura
 Olá, eu sou uma nova linha
+=======
+Olá, meu nome é Elias
+Olá, eu sou uma nova linha
+mais um teste agora 
+>>>>>>> 0c40281b58a90942bd60edf52015fd89b4a51a7b
